@@ -9,5 +9,5 @@ const CustomButton = ({children,isGoogleSignIn, ...otherProps}) => (
         {...otherProps}>
         {children}
     </button>
-)
+) 
 export default CustomButton;
